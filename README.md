@@ -1,2 +1,2 @@
-# raw_dns
-simple dns request in python
+# raw_DNS
+simple DNS packet building in python
